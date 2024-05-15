@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">LabExam02</string>
+    <string name="Login"> Log In</string>
+    <string name="email" />
+    <string name="register">register</string>
+    <string name="Register" />
+    <string name="InputPassword" />
+    <string name="please_register_with_your_information">Please Register with your information</string>
+    <string name="start">Start</string>
+    <string name="welcome">Welcome</string>
+    <string name="coffee_me">COFFEE ME</string>
+    <string name="username">UserName</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="conform_password">Conform Password</string>
+    <string name="log_in">Log in</string>
+    <string name="login_successful">Login Successful</string>
+    <string name="submit">Submit</string>
+    <string name="delete">Delete</string>
+    <string name="location">Location</string>
+    <string name="menu">Menu</string>
+    <string name="successful">Successful</string>
+    <string name="already_have_an_account_login">Already have an account? Login</string>
+    <string name="password">password</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="name">Name :</string>
+    <string name="edit_email">Email</string>
+    <string name="log_in1">Log in</string>
+    <string name="username1">UserName</string>
+    <string name="password2">Password</string>
+    <string name="register1">Register</string>
+    <string name="register011">Register</string>
+    <string name="click_the_successfull_text">Click The successfull Text</string>
+
+
+</resources>
+
+
